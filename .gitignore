@@ -1,0 +1,14 @@
+ipch
+*.sdf
+*.suo
+x64
+*.asv
+GlobalRegistration/x64/
+temp
+g2o_source
+Debug
+Release
+*.pcd
+*.log
+*.sdf
+*.ctr
