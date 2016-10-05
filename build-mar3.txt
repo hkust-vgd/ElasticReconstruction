@@ -1,8 +1,0 @@
-Visual Studio 2013 build
-
-- Use g2o devel branch, commit 41b0be79a0821c1466f694dc16a9ee2c5ee92a9b, on Dec 22, 2015. 
-- PCL 1.7.2 all in one package by http://unanancyowen.com/?p=1255&lang=en
-  This package does not have openni_grabber, so ONI file is not supported. 
-- CUDA 7.0
-
-- Disable parallelization in OptimizeRigid in FragmentOptimizer. This causes non-deterministic behavior during runtime. Sometimes with the same data, the optimization error becomes 1.#R.
